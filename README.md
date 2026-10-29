@@ -1,7 +1,7 @@
 # QuerySentinel
 
 데이터베이스 성능 회귀를 자동으로 검증하는 플랫폼을 목표로 하는 프로젝트입니다.
-
+.
 ## Tech Stack
 
 - Backend: Spring Boot 4.0.9, Java 21, Gradle
